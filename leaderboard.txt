@@ -1,0 +1,10 @@
+Alice,6
+Lebron,6
+The,5
+Card Counter,5
+Slipping Jimmy,5
+Xtreme Gambler,4
+Walter White,4
+Yu-Gi-Oh,4
+Alice,3
+Mario,3
